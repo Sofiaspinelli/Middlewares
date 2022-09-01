@@ -1,0 +1,22 @@
+El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /aboutEl usuario ingreso a la ruta /loginEl usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /aboutEl usuario ingreso a la ruta /loginEl usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /loginEl usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /loginEl usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /El usuario ingreso a la ruta /registerEl usuario ingreso a la ruta /El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /about 
+El usuario ingreso a la ruta /register 
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /login 
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /about 
+El usuario ingreso a la ruta /register 
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /register 
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /about 
+El usuario ingreso a la ruta /register 
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /login 
+El usuario ingreso a la ruta / 
+El usuario ingreso a la ruta /admin/list 
+El usuario ingreso a la ruta /admin 
+El usuario ingreso a la ruta /admin?user=Ada 
+El usuario ingreso a la ruta /admin?user=Greta 
+El usuario ingreso a la ruta /admin?user=Bim 
+El usuario ingreso a la ruta /admin?user=Tim 
